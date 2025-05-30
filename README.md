@@ -9,4 +9,4 @@ This dashboard addresses the following key questions:
 4.	Which customer segments are most profitable, and where should retention efforts be focused?
 5.	How do new, returning, and recovered customers behave across cohort months?
 6.	Can we predict future churn and anticipate changes in customer behavior?
-11.	Dashboard Interaction <a href="https://github.com/Rumkey988/Excel-Project/blob/main/inventory_dashboard.xlsx"> View Dashboard </a> 
+11.	Dashboard Interaction <a href="https://github.com/Rumkey988/Cohort-Analysis/blob/main/Cohort%20(final%20version).pbix"> View Dashboard </a> 
